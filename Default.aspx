@@ -11,7 +11,10 @@
     <form id="form1" runat="server">
     <div>
     
-        Hello world!</div>
+        Hello world!
+        <asp:Label ID="lbl_welcome" runat="server"></asp:Label>
+    
+    </div>
     </form>
 </body>
 </html>
